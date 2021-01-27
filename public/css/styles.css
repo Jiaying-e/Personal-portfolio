@@ -4,8 +4,8 @@ body{
     padding: 0;
     width: 100%;
     color: #5a5a5a;
-    background: url("../background.jpg") no-repeat;
-    background-size: cover;
+    background: url(../Background.jpg) no-repeat;
+    background-size: 100%;
 }
 .container-fluid{
     margin: 0;
