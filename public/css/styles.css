@@ -132,6 +132,8 @@ section{
   
   /* Thin out the marketing headings */
   .featurette-heading {
+    font-family: 'Chivo';
+    font-style: normal;
     font-weight: 600;
     line-height: 1;
     letter-spacing: -.05rem;
@@ -143,15 +145,22 @@ section{
   }
   .lead{
     padding: 0 40px 0 40px;
+    font-weight: 300; 
+    color: #214151;
+    font-family: 'Chivo';
+    font-weight: normal;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 28px;
   }
   
   .projectsSection{
-      background-color: #ffffff;
+      background-color: #fcf8e6;
   }
 
   .featurette-image{
-      height: 400px;
-      width: 400px;
+      height: 359px;
+      width: 640px;
   }
 
   a{
